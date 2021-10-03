@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+
+.navbar-brand{
+    color: black;
+    padding-left: 40px;
+    font-weight: bold;
+    font-size: 20px;
+}
+a .logo:hover{
+    color: black;
+}
+.navbar .navbar-nav {
+    display: flex;
+    margin:0 auto;
+    margin-left: 390px
+    
+}
+.navbar .navbar-nav a{
+    margin: 7px;
+   
+    color: black;
+    font-weight: 200px;
+    font-size: 18px;
+    
+}
+.navbar-nav a:hover{
+    color: rgb(161, 12, 117);;
+}
+
+.box{
+    display:flex;
+    justify-content: center;
+    background-color:rgb(39, 43, 43);
+    margin:40px auto;
+    width:40%;
+    height:800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+    color: white;
+    
+}
+.box .container{
+    margin:20px;
+}
+.container h2 {
+    font-size:25px;
+    color: rgb(179, 11, 123);
+}
+.container button{
+    margin:18px 0;
+    padding: 5px 15px;
+    font-size: 15px;
+    transition: transform .2s;
+    background-color:rgb(179, 11, 123) ;
+    border:2px solid rgb(179, 11, 123) ;
+    color:whitesmoke;
+}
+.container button:hover{
+    background-color:rgb(179, 11, 123) ;
+    border:none;
+    font-size: 17px;
+    color:whitesmoke;
+    transform: scale(1.1);
+}
+.container a{
+    text-decoration: none;
+}
+h6{
+    color: whitesmoke;
+    margin:40px 0;
+    text-decoration: none;
+}
+h6:hover{
+    color:rgb(179, 11, 123);
+}
