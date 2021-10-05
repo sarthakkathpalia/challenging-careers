@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+
+.navbar-brand{
+    color: black;
+    padding-left: 40px;
+    font-weight: bold;
+    font-size: 20px;
+}
+a .logo:hover{
+    color: black;
+}
+.navbar .navbar-nav {
+    display: flex;
+    margin:0 auto;
+    margin-left: 390px
+    
+}
+.navbar .navbar-nav a{
+    margin: 7px;
+    font-weight: 200px;
+    font-size: 20px;
+    font-family: 'Lora';
+    
+}
+.navbar-nav a:hover{
+    color: whitesmoke;
+}
+.dropdown-menu{
+  
+    background-color: #212529;
+    
+}
+.dropdown-item {
+    color:whitesmoke;
+  
+   
+}
+.dropdown-menu a:hover{
+  
+    background-color: #9ea6af;
+    color:black;
+    width:90%;
+}
+
+.box{
+    display:flex;
+    justify-content: center;
+    background-color: rgb(215 227 237);;
+    margin:40px auto;
+    width:40%;
+    height:650px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+    color:#042814;;
+    
+}
+.box .container{
+    margin:20px;
+}
+.container h2 {
+    margin-bottom: 12px;
+    font-size:25px;
+    color: rgb(10 112 151);
+    font-weight: bold;
+    font-family: 'Lora';
+}
+.container button{
+    margin:18px 0;
+    padding: 5px 15px;
+    font-size: 15px;
+    transition: transform .2s;
+    background-color:rgb(10 112 151);
+    border:2px solid rgb(10 112 151);
+    color:whitesmoke;
+}
+.container button:hover{
+    background-color:rgb(10 112 151) ;
+    border:none;
+    font-size: 17px;
+    color:whitesmoke;
+    transform: scale(1.1);
+}
+.container a{
+    text-decoration: none;
+}
+h6{
+    color: #042814;
+    margin:40px 0;
+    text-decoration: none;
+}
+h6:hover{
+    color:rgb(10 112 151);
+}

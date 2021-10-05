@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Playfair+Display&display=swap');
+
+.navb{
+    
+    width:auto;
+    background-color: #e7dbe0;
+   
+    
+}
+.navbar-brand{
+    color: black;
+    padding-left: 40px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+a .logo:hover{
+    color: black;
+}
+.navbar .navbar-nav {
+    display: flex;
+    margin:0 auto;
+}
+.navbar .navbar-nav a{
+    margin: 7px;
+    color: black;
+    font-weight: 900;
+    font-size: 19px;
+    font-family:'Lora';
+    
+}
+.navbar-nav .nav-item a:hover{
+    color: rgb(13, 131, 125);
+}
+.navbar-nav .dropdown-menu a:hover{
+    color:whitesmoke;
+}
+.dropdown-menu a:hover{
+  
+    background-color:#212529 ;
+    
+    width:90%;
+}
+
+
+.navbar .right{
+    display: flex;
+    list-style-type: none;
+}
+.right a{
+    background-color:rgb(31, 33, 34) ;
+    margin: 2px;
+    padding:7px 40px;
+    color: rgb(255, 255, 255);
+    border: 2px solid none;
+    border-radius: 36px;
+    text-decoration: none;
+    font-family:'Lora';
+}
+.right a:hover{
+    background-color: rgb(43, 62, 66);
+    color: white;
+}
+
+.about{
+    background-color: rgba(175, 126, 150, 0.452);
+    font-family: 'lora';
+}
+
+.about h1{
+    margin:12px;
+    padding-bottom: 40px;
+    color: rgb(77, 12, 1);
+    font-weight: bold;
+}
+.about p{
+    font-size: 26px;
+    font-weight: 600;
+    color: rgb(59, 70, 30);
+}
+h5{
+    color:rgb(238, 223, 223);
+    font-size: 23px;
+    padding: 20px;
+}
+.second h5{
+    color:rgb(41, 37, 37);
+}
+.third h5{
+    color:rgb(245, 243, 243);
+    padding: 0 1px;
+}
