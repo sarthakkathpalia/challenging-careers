@@ -2,6 +2,8 @@
     <img src=Components/LOG.gif height=350>
 </p>
 
+See live at https://challenging-careers.herokuapp.com/TB.html
+
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -17,7 +19,7 @@
 
 - Youngsters (both girls and boys of less than 25 years) who aspire to choose a career of excitement, adventure and challenges can find no better place than defence and paramilitary forces to meet all their professional expectations.
 
-"Challenging Careers" is a gate-way not only to select a career full of challenges and adventures but also provides an opportunity to the girls to **kill the cliche** that **certain jobs are gender specific or stereotype.**
+[Challenging Careers](https://challenging-careers.herokuapp.com/TB.html) is a gate-way not only to select a career full of challenges and adventures but also provides an opportunity to the girls to **kill the cliche** that **certain jobs are gender specific or stereotype.**
 
 # How to use Challenging Careers
 
@@ -59,3 +61,5 @@ This is how Challenging Careers works:
    <img src=Components/SS5.png height=300>
 
 3. Change your directory to reach **Challenging Career's folder\*** by `cd codejam-21/tea-baggins/`
+
+You can visit our site [here](https://challenging-careers.herokuapp.com/TB.html).
