@@ -17,7 +17,7 @@
 
 - Youngsters (both girls and boys of less than 25 years) who aspire to choose a career of excitement, adventure and challenges can find no better place than defence and paramilitary forces to meet all their professional expectations.
 
-"Challenging Careers" is a gate-way not only to select a career full of challenges and adventures but also provides an opportunity to the girls to kill the cliche that certain jobs are gender specific or stereotype.
+"Challenging Careers" is a gate-way not only to select a career full of challenges and adventures but also provides an opportunity to the girls to **kill the cliche** that **certain jobs are gender specific or stereotype.**
 
 # How to use Challenging Careers
 
