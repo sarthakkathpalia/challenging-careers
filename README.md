@@ -24,9 +24,18 @@
 This is how Challenging Careers works:
 
 - Visit the Challenging Careers website and create an account on it for free. Once you create an account you have option to appear for **any** of the given test on our website.
+
+<img src=Components/SS1.png height=500>
+<img src=Components/SS2.png height=500>
+<img src=Components/SS6.png height=450>
+
+
   
 
 - After getting logged in, click the Exams tab to see the **Services** available.
+
+<img src=Components/SS3.png height=500>
+
 
   
 
@@ -43,11 +52,11 @@ This is how Challenging Careers works:
 
 1. Fork the GitHub repository.
 
-   <img src=src/components/Homepage/ss3.PNG>
+   <img src=Components/SS4.png height=300>
 
 2. Copy and clone your fork's URL using the `git clone [URL]` command.
 
-   <img src=src/components/Homepage/ss4.PNG>
+   <img src=Components/SS5.png height=300>
 
 3. Change your directory to reach **Study Date's folder\*** by `cd codejam-21/flashy-fries/`
 4. Install the required modules using `npm install`
