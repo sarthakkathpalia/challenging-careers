@@ -11,6 +11,7 @@ body{
 	margin:17px;
 	padding: 17px;
 	border-radius: 30px;
+	height:1100px;
 }
 .question{
 	font-weight: 600;
@@ -44,4 +45,19 @@ h1{
 	margin:5px;
 	border-radius: 20px;
 
+}
+
+.result{
+	font-family: sans-serif;
+	font-size: 20px;
+	background-color: #279;
+	color: #fff;
+	border: 0px;
+	border-radius: 20px;
+	padding:7px 15px;
+	cursor: pointer;
+	margin-top:18px;
+	margin-left: 12px;
+	margin-bottom: 20px;
+	text-decoration: none;
 }
