@@ -6,7 +6,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Challenging Careers](#challenging-careers)
-  - [How to use Challenging Careers ?](#how-to-use-challenging-careers)
+  
   - [How to Set Up](#how-to-set-up)
 
 # Challenging Careers
