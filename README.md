@@ -1,5 +1,5 @@
 <p align="center">
-    
+    <img src=Components/LOG.gif height=350>
 </p>
 
 # Table of Contents
@@ -52,21 +52,10 @@ This is how Challenging Careers works:
 
 1. Fork the GitHub repository.
 
-   <img src=Components/SS4.png height=300>
+   <img src=Components/SS4.png height=250>
 
 2. Copy and clone your fork's URL using the `git clone [URL]` command.
 
    <img src=Components/SS5.png height=300>
 
-3. Change your directory to reach **Study Date's folder\*** by `cd codejam-21/flashy-fries/`
-4. Install the required modules using `npm install`
-5. Run the command `npm start`
-6. The site will open itself in your default browser. In case it doesn't, enter `http://localhost:3000/` into your address bar to visit the Study Date website, and get started!
-
-Alternatively, you could visit our site [here](https://study-date-eda7b.web.app/)!
-
----
-
-We have used the widely hated and ridiculed Comic Sans MS font for _designing_ our logo, because why not, since we are _combining opposites_. :smiley:
-
----
+3. Change your directory to reach **Challenging Career's folder\*** by `cd codejam-21/tea-baggins/`
