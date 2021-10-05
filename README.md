@@ -6,8 +6,8 @@
 
 - [Table of Contents](#table-of-contents)
 - [Challenging Careers](#challenging-careers)
-  
-  - [How to Set Up](#how-to-set-up)
+    - [How to use Challenging Careers ?](#how-to-use-challenging-careers)
+    - [How to Set Up ?](#how-to-set-up)
 
 # Challenging Careers
 
@@ -19,7 +19,7 @@
 
 "Challenging Careers" is a gate-way not only to select a career full of challenges and adventures but also provides an opportunity to the girls to kill the cliche that certain jobs are gender specific or stereotype.
 
-## How to use Challenging Careers ?
+# How to use Challenging Careers
 
 This is how Challenging Careers works:
 
