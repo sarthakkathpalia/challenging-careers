@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=Components/LOG.gif height=350>
+    <img src=Components/LOG.gif height=350 width="100%">
 </p>
 
 See live at https://challenging-careers.herokuapp.com/TB.html
