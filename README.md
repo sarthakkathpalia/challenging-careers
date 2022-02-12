@@ -50,16 +50,4 @@ This is how Challenging Careers works:
 - After completing the question paper click the submit button. 
 - The result appears on a New Page.
 
-## How to set up
-
-1. Fork the GitHub repository.
-
-   <img src=Components/SS4.png height=250>
-
-2. Copy and clone your fork's URL using the `git clone [URL]` command.
-
-   <img src=Components/SS5.png height=300>
-
-3. Change your directory to reach **Challenging Career's folder\*** by `cd codejam-21/tea-baggins/`
-
 You can visit our site [here](https://challenging-careers.herokuapp.com/TB.html).
